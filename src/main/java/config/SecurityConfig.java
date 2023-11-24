@@ -12,7 +12,7 @@ import org.springframework.security.web.authentication.LoginUrlAuthenticationEnt
 import org.springframework.security.config.annotation.web.configurers.oauth2.server.resource.OAuth2ResourceServerConfigurer;
 
 /**
- * Created by jt, Spring Framework Guru.
+ * Created by js, Spring Framework Guru.
  */
 @Configuration
 public class SecurityConfig {
